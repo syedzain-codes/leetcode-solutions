@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0695-max-area-of-island](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
