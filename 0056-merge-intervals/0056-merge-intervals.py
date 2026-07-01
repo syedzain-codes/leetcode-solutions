@@ -1,0 +1,21 @@
+class Solution(object):
+    def merge(self, intervals):
+        """
+        :type intervals: List[List[int]]
+        :rtype: List[List[int]]
+        """
+        intervals.sort()
+        ans = []
+
+        for interval in intervals:
+            if not ans:
+                ans.append(interval)
+            elif ans[-1][1] >= interval[0]:
+                ans[-1][1] = max(ans[-1][1], interval[1])
+            else:
+                ans.append(interval)
+
+        return ans
+
+
+        
