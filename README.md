@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
