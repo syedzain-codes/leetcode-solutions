@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0130-surrounded-regions) |
@@ -99,5 +100,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0134-gas-station) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
