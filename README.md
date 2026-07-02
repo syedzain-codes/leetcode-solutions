@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0695-max-area-of-island](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0733-flood-fill) |
+| [2643-row-with-maximum-ones](https://github.com/syedzain-codes/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0733-flood-fill) |
+| [2643-row-with-maximum-ones](https://github.com/syedzain-codes/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 ## Graph Theory
 |  |
 | ------- |
