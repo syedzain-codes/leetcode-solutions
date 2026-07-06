@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0090-subsets-ii](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0134-gas-station) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0476-number-complement](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0476-number-complement) |
 ## Sorting
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
