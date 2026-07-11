@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0695-max-area-of-island](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0804-unique-morse-code-words](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [2643-row-with-maximum-ones](https://github.com/syedzain-codes/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
