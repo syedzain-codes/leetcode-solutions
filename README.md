@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0143-reorder-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0804-unique-morse-code-words](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2643-row-with-maximum-ones](https://github.com/syedzain-codes/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 ## Depth-First Search
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0704-binary-search) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
