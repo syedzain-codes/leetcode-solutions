@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Binary Search
 |  |
