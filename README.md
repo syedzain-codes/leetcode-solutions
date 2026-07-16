@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0130-surrounded-regions](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0199-binary-tree-right-side-view](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0733-flood-fill) |
@@ -153,8 +155,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
