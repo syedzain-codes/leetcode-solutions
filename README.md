@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0143-reorder-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0804-unique-morse-code-words](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2643-row-with-maximum-ones](https://github.com/syedzain-codes/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 ## Depth-First Search
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -167,8 +170,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
