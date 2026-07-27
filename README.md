@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/syedzain-codes/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Tree
