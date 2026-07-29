@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0134-gas-station) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
