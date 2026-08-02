@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0845-longest-mountain-in-array](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -21,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
