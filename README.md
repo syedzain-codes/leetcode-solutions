@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0845-longest-mountain-in-array](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/syedzain-codes/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0804-unique-morse-code-words](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [0845-longest-mountain-in-array](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
