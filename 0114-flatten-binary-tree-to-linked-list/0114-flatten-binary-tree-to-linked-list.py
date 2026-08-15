@@ -10,27 +10,19 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: None Do not return anything, modify root in-place instead.
         """
-        self.x=TreeNode()
-        
-        
-        z=self.x
-        
-        def dfs(root):
-            if root is None:
-                return
+        cur = root
 
-            left = root.left
-            right = root.right
+        while cur:
+            if cur.left:
+                temp = cur.left
 
-            self.x.right = root
-            self.x.left = None
-            self.x = self.x.right
+                while temp.right:
+                    temp = temp.right
 
-            dfs(left)
-            dfs(right)
+                temp.right = cur.right
+                cur.right = cur.left
+                cur.left = None
 
-        dfs(root)
-
-        return z.right
+            cur = cur.right
 
         
