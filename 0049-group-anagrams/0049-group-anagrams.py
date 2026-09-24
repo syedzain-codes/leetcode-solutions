@@ -6,12 +6,13 @@ class Solution(object):
         """
         anagrammap=defaultdict(list)
         for i in strs:
-            count=[0]*26
+            arr=[0]*26
             for c in i:
-                count[ord(c)-ord('a')]+=1
-            anagrammap[tuple(count)].append(i)
+                arr[ord(c)-ord('a')]+=1
+            anagrammap[tuple(arr)].append(i)
         return list(anagrammap.values())
-        
+                
+      
                 
 
         
