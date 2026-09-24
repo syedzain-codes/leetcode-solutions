@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0804-unique-morse-code-words](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 ## Math
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0804-unique-morse-code-words](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 ## Prefix Sum
 |  |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
