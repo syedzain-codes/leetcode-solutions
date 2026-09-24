@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0804-unique-morse-code-words](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 ## Math
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0804-unique-morse-code-words](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 ## Prefix Sum
 |  |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0383-ransom-note) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
