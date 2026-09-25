@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0160-intersection-of-two-linked-lists](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -291,5 +293,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
