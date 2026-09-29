@@ -5,17 +5,28 @@ class Solution(object):
         :type p: str
         :rtype: List[int]
         """
-        count=[0]*26
-        for c in p:
-            count[ord(c)-ord('a')]+=1
-        window=[0]*26
+        pcount=[0]*26
+        scount=[0]*26
         ans=[]
-        for i in range(0,len(s)):
-            window[ord(s[i])-ord('a')]+=1
-            if(i>=len(p)-1):
-                if count==window:
-                    ans.append(i-len(p)+1)
-                
-                window[ord(s[i-len(p)+1])-ord('a')]-=1
+        for i in p:
+            pcount[ord(i)-ord('a')]+=1
+        l=0
+        r=l
+        while(r<len(s)):
+            scount[ord(s[r])-ord('a')]+=1
+            
+            if r-l+1==len(p):
+                if scount==pcount:
+                    ans.append(l)
+                scount[ord(s[l])-ord('a')]-=1
+                l+=1
+            r+=1
         return ans
+            
+            
+            
+
+
+    
+    
         
