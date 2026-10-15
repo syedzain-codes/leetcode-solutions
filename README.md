@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0143-reorder-list) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
