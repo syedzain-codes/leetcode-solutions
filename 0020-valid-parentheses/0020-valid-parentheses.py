@@ -4,18 +4,25 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
-        x={'(':')','[':']','{':'}'}
+        x={')':'(',']':'[','}':'{'}
         stack=[]
-        for i in range(0,len(s)):
-            if s[i] in x:
-                stack.append(s[i])
-
-            if s[i] not in x and len(stack)==0:
-                return False
-            if s[i] not in x and x[stack.pop()]!=s[i]:
-                return False
+        if len(s)==1:
+            return False
+        for i in s:
+            if i in "({[":
+                stack.append(i)
+            else:
+                if len(stack)==0:
+                    return False
+                
+                if stack.pop()==x[i]:
+                    continue
+                else:
+                    return False
         if len(stack)==0:
             return True
         else:
             return False
+                 
+
         
