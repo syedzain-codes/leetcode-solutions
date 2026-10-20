@@ -9,12 +9,8 @@ class Solution(object):
         l=0
         for r in range(0,len(s)):
             while s[r] in seen:
-               
-                seen.remove(s[l])
-                l+=1
-                
-        
+               seen.remove(s[l])
+               l+=1
             seen.add(s[r])
-            maxlen=max(maxlen,r-l+1)
+            maxlen=max(r-l+1,maxlen)
         return maxlen
-            
