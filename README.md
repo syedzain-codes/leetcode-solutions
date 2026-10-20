@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/syedzain-codes/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/syedzain-codes/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
